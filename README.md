@@ -1,2 +1,2 @@
 # HICET
-college nam,e
+college name
